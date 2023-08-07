@@ -1,6 +1,6 @@
 # Machine_Learning_MEA_Optimization
 To run the code, we suggest that users install Anaconda 3 in windows 10 and install the following necessary python packages with the same or higher version to set up a compatible environment:  
-**Python 3.7;**
+**Python 3.7;**  
 **Jupyter 1.0.0;**   
 **numpy 1.20.2;**   
 **pandas 1.3.0;** 
